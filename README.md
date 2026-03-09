@@ -1,26 +1,26 @@
 # Arcade Mania
 
-Ez itt az **Arcade Mania** projekt github oldala. 
+Ez itt az **Arcade Mania** projekt fő GitHub oldala. 
 
 ---
 
-A projektel kapcsolatos összes dokumentum ezen a github oldalon vagy a hivatkozások résznél található github oldalakon találhatóak meg.
-
-A main branch a különböző dokumentumokat pl.: a prezentációkat és a vizsgaremek dokumentációját tartalmazza.
-
-A többi adat/fájl az annak megfelelő branch-eket található meg. Branch-enként különböntve backend-re, frontend-re és db-re.
+A projektel kapcsolatos összes dokumentum ezen a GitHub oldalon vagy a hivatkozások résznél található GitHub oldalakon találhatóak meg.
 
 ---
 
 A projektről és annak ismertetéséről a **BódiSzabolcs13A** és a **Arcade Mania vizsgaremek dokumentáció** nevű fájlok tartalmaznak bővebb információkat.
 
+---
+
 ## Hivatkozások:
 
-## FrontEnd github link:
+## FrontEnd GitHub link:
 
-## BackEnd github link:
+## BackEnd GitHub link:
 
-## Adatbázis github link:
+## Adatbázis GitHub link:
+
+https://github.com/SzabolcsBodi756/Arcade-Mania-adatbazis
 
 ## Trello link:
 
