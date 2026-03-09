@@ -6,9 +6,9 @@ Ez itt az **Arcade Mania** projekt github oldala.
 
 A projektel kapcsolatos összes dokumentum ezen a github oldalon található meg.
 
-A main branch a különböző dokumentumokat pl.: a prezentációkat és a vizsgaremek dokumentációját tartalmazza
+A main branch a különböző dokumentumokat pl.: a prezentációkat és a vizsgaremek dokumentációját tartalmazza.
 
-A többi adat/file az annak megfelelő branch-eket található meg. Branch-enként különböntve backend-re, frontend-re és db-re.
+A többi adat/fájl az annak megfelelő branch-eket található meg. Branch-enként különböntve backend-re, frontend-re és db-re.
 
 ---
 
