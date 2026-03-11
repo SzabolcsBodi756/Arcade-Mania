@@ -14,6 +14,10 @@ A projektről és annak ismertetéséről a **BódiSzabolcs13A** és a **Arcade 
 
 https://github.com/SzabolcsBodi756/Arcade-Mania-adatbazis
 
+https://github.com/SzabolcsBodi756/-Arcade-Mania-frontend
+
+https://github.com/SzabolcsBodi756/Arcade-Mania-backend
+
 ## Trello link:
 
 https://trello.com/b/ZOUXv58n/ikt-projektmunka
