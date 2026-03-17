@@ -16,7 +16,7 @@ https://github.com/SzabolcsBodi756/Arcade-Mania-adatbazis
 
 https://github.com/SzabolcsBodi756/Arcade-Mania-backend
 
-https://github.com/SzabolcsBodi756/-Arcade-Mania-frontend
+https://github.com/SzabolcsBodi756/Arcade-Mania-frontend
 
 ## Trello link:
 
